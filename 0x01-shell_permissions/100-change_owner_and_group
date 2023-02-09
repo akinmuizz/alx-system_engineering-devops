@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -u -g vincent staff
+sudo -ug vincent staff
