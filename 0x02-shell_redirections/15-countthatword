@@ -1,2 +1,2 @@
 #!/bin/bash
-15-countthatword
+grep -c "bin" /etc/passwd
